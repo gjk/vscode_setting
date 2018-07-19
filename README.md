@@ -37,4 +37,5 @@
   },
   "workbench.editor.closeEmptyGroups": false,
   "search.location": "sidebar"
-} ```
+}
+```
