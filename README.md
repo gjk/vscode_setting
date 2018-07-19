@@ -1,6 +1,7 @@
 # vscode_setting
 
-` {
+``` 
+{
   "editor.fontSize": 18,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -32,4 +33,4 @@
   },
   "workbench.editor.closeEmptyGroups": false,
   "search.location": "sidebar"
-} `
+} ```
