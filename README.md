@@ -5,6 +5,7 @@
   "editor.fontSize": 18,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
+  
   // Inconsolata 需要单独安装
   "editor.fontFamily": "Inconsolata, Consolas, 'Courier New'",
   "git.autofetch": true,
@@ -15,6 +16,7 @@
   "editor.formatOnPaste": true,
   "markdown.previewFrontMatter": "show",
   "git.ignoreMissingGitWarning": true,
+  
   // 需要安装插件 vscode-icons
   "workbench.iconTheme": "vscode-icons",
   "explorer.confirmDelete": false,
