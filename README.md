@@ -2,22 +2,17 @@
 
 ``` 
 {
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  
-  // Inconsolata 需要单独安装
-  "editor.fontFamily": "Inconsolata, Consolas, 'Courier New'",
+  "editor.fontFamily": "'Roboto Mono','ubuntu mono', Consolas, 'Courier New'",
   "git.autofetch": true,
   "editor.renderWhitespace": "all",
   "files.autoSave": "onFocusChange",
   "editor.cursorStyle": "line",
   "terminal.integrated.drawBoldTextInBrightColors": false,
-  "editor.formatOnPaste": true,
   "markdown.previewFrontMatter": "show",
   "git.ignoreMissingGitWarning": true,
-  
-  // 需要安装插件 vscode-icons
   "workbench.iconTheme": "vscode-icons",
   "explorer.confirmDelete": false,
   "workbench.sideBar.location": "right",
@@ -36,6 +31,10 @@
     "notificationLink.foreground": "#00BCD4"
   },
   "workbench.editor.closeEmptyGroups": false,
-  "search.location": "sidebar"
+  "search.location": "sidebar",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.statusBar.feedback.visible": false,
+  "breadcrumbs.enabled": true,
+  "vsicons.dontShowNewVersionMessage": true
 }
 ```
